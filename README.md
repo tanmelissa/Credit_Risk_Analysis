@@ -68,4 +68,4 @@ The purpose of this analysis is to create various machine learning models to see
 
 ## Summary
 
-AdaBoost had the highest scores with an accuracy of 0.93, precision of 0.09, and sensitivity of 0.92. None of the models have a very good precision score, so I would not recommend them if you would like high precision in detecting credit risk. f you value sensitivity in your model, I would recommend using the AdaBoost as it had the highest sensitivity rating. 
+AdaBoost had the highest scores with an accuracy of 0.93, precision of 0.09, and sensitivity of 0.92. None of the models have a very good precision score, so I would not recommend them if you would like high precision in detecting credit risk. If you value sensitivity in your model, I would recommend using the AdaBoost as it had the highest sensitivity rating. 
